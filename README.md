@@ -23,9 +23,6 @@ Other than that, if the user wants to look at all events, make bookings, make ch
 to request, request events, etc. then they have to first log in to get the API key (which will be available
 for 14 days from the day that you logged in)
 
-## Backend
-## Frontend
-
 ## Dependencies
 
 Book And Go uses a number of open source projects to work properly:
@@ -37,7 +34,7 @@ Book And Go uses a number of open source projects to work properly:
 * [mongoose](https://www.npmjs.com/package/mongoose) - a [MongoDB](https://www.mongodb.com/) object modeling tool designed to work in an asynchronous environment
 * [body-parser](https://www.npmjs.com/package/body-parser) - a parsing middleware that helps with translating the URL into usable format
 * [nodemon](https://www.npmjs.com/package/nodemon) - a node.js package that helps with debugging node.js app
-* [imgur API](https://apidocs.imgur.com) - an API that can help us upload photos to it 
+* [Cloudinary API](https://https://cloudinary.com) - an API that can help us upload photos to it 
 * [Heroku](https://devcenter.heroku.com) - a hosting service that can help us host the API of the backend
 * [MongoDB Atlas](https://cloud.mongodb.com) - a MongoDB database service that will contain all of our information being sent through the API
 * [Google Cloud SDK](https://cloud.google.com/sdk/) - a SDK pack that has the option for us to host a website on Google Cloud Platform
